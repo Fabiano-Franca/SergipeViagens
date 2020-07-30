@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SergipeViagens</string>
+    <string name="especiais">Especiais</string>
+    <string name="brasil">Brasil</string>
+    <string name="banner">Banner</string>
+    <string name="imagem_cidade">Imagem da cidade</string>
+</resources>
